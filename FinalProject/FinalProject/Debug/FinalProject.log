@@ -1,0 +1,11 @@
+﻿  character.cpp
+  chest.cpp
+  enemy.cpp
+  main.cpp
+E:\Evan B\FinalProject\FinalProject\main.cpp(265,25): warning C4018: '<': signed/unsigned mismatch
+E:\Evan B\FinalProject\FinalProject\main.cpp(305,24): warning C4018: '<': signed/unsigned mismatch
+E:\Evan B\FinalProject\FinalProject\main.cpp(539,20): warning C4018: '<': signed/unsigned mismatch
+E:\Evan B\FinalProject\FinalProject\main.cpp(551,20): warning C4018: '<': signed/unsigned mismatch
+  player.cpp
+  Generating Code...
+  FinalProject.vcxproj -> E:\Evan B\FinalProject\Debug\FinalProject.exe
